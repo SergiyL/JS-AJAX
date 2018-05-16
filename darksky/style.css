@@ -1,0 +1,22 @@
+body * {
+    margin: 0px auto;
+}
+
+.container {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.container * {
+    margin-top: 15px;
+}
+.btn {
+    width: 150px;
+    margin: 0 80px;
+}
+span {
+    font-size: x-large;
+}
+.temp {
+    margin: 0 10px;
+}
